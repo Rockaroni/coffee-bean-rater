@@ -1,0 +1,16 @@
+{
+  "name": "coffee-bean-rater",
+  "version": "1.0.0",
+  "description": "A mobile-first application for coffee enthusiasts to rate and discover coffee beans through image recognition.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "create-expo-app": "^3.2.0",
+    "expo-cli": "^6.3.12"
+  }
+}
